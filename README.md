@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @god-punisher
-- 👀 I’m interested in 3D, Games, Mods
-- 🌱 I’m currently learning Blender and Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computer graphics, AI
+- 🌱 I’m currently coursing Computer Science
 
 <!---
 god-punisher/god-punisher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
